@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: brown;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+background-color: white;
+height: 300px;
+width: 500px;
+border-radius: 10px;
+padding: 30px;
+margin: 10px;
+}
+.textclass{
+    height: 80px;
+    width: 100%;
+   
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.chars{
+    display: flex;
+    justify-content: space-between;
+}

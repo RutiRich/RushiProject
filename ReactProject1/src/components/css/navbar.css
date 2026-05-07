@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.lipatent{
+    height: auto;
+    width: auto;
+    display: flex;
+    gap: 40px;
+    position: absolute;
+    right: 0;
+    
+
+}
+
+.lipatent li{
+    color:wheat;
+    font-size: 20px;
+}
